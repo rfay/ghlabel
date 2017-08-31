@@ -37,3 +37,5 @@ You can apply label changes using the `--apply` flag (or `-a` for short).
 ```
 ./ghlabel --org=drud --ref=community --apply
 ```
+
+Junk addition
